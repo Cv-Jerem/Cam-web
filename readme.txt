@@ -1,43 +1,38 @@
-# Algori Shop 
-
-Contributors: [Kevin Bazira](http://kevinbazira.com)
-
+=== Algori Shop ===
+Contributors: kevinbazira
 Tags: e-commerce, blog, two-columns, right-sidebar, custom-header, custom-menu, custom-logo, editor-style, featured-images, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
-
-Requires at least: WP 4.9.6
-* Tested up to: WP 5.2.1
-* Stable tag: 1.1.3
-* License: GNU General Public License v3 or later
-* License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
+Requires at least: 4.9.6
+Tested up to: 5.2.1
+Requires PHP: 5.6.0
+Stable tag: 1.1.3
+License: GNU General Public License v3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Algori Shop is a Gutenberg Ready WooCommerce Theme designed for Modern eCommerce Shops.
 
-![Algori Shop Gutenberg Ready WooCommerce WordPress Theme](http://kevinbazira.com/images/articles/algori-shop-gutenberg-ready-woocommerce-wordpress-theme.jpg "Algori Shop Gutenberg Ready WooCommerce WordPress Theme")
-
-# Description 
+== Description ==
 
 A Free Gutenberg Ready WooCommerce WordPress Theme with a clean and professional design that will be a great solution for your Modern eCommerce Shop. It's designed to help you showcase your products and sell more with just about any type of online store.
 
-# Installation
+== Installation ==
 
-* Download the theme, unzip it and move the unzipped folder to the "wp-content/themes" in your WordPress installation.
-* In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
-* Type in Algori Shop in the search form and press the 'Enter' key on your keyboard.
-* Click on the 'Activate' button to use your new theme right away.
-* Go to http://kevinbazira.com/blog/article/algori-shop-gutenberg-ready-woocommerce-wordpress-theme for a guide on how to customize this theme.
-* Navigate to Appearance > Customize in your admin panel and customize to taste.
-* Done :)
+1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
+2. Type in Algori Shop in the search form and press the 'Enter' key on your keyboard.
+3. Click on the 'Activate' button to use your new theme right away.
+4. Go to http://kevinbazira.com/blog/article/algori-shop-gutenberg-ready-woocommerce-wordpress-theme for a guide on how to customize this theme.
+5. Navigate to Appearance > Customize in your admin panel and customize to taste.
+6. Done :)
 
-# Frequently Asked Questions 
+== Frequently Asked Questions ==
 
 = Does this theme support any plugins? =
 
 Algori Shop includes support for the following plugins;
-* Infinite Scroll in Jetpack
-* WooCommerce plugin
-* Gutenberg plugin
+1. Infinite Scroll in Jetpack
+2. WooCommerce plugin
+3. Gutenberg plugin
 
-# Changelog 
+== Changelog ==
 
 = 1.1.3 - Jul 15 2019 =
 * Removed big white space below Header Image for both tablets and mobile screens
@@ -103,11 +98,12 @@ Algori Shop includes support for the following plugins;
 
 = 1.0.1 - Feb 7 2019 =
 * Added GPL compatible Default Header Image
+* Changed main content area to col-sm-9 in both index.php and page.php
 
 = 1.0.0 - Feb 6 2019 =
 * Initial Release
 
-# Credits
+== Credits ==
 
 * Based on [Underscores](https://underscores.me/) , (C) 2012-2017 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * [normalize.css](https://necolas.github.io/normalize.css/) , (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
@@ -124,15 +120,9 @@ Algori Shop includes support for the following plugins;
 * [retina.js](https://github.com/strues/retinajs) , (C) Steven Truesdell, [MIT](https://opensource.org/licenses/MIT)
 * [Font Awesome icons](http://fontawesome.io) , (C) Dave Gandy, [Font: SIL OFL 1.1, CSS: MIT License](http://fontawesome.io/license)
 * [Default Header Image](https://stocksnap.io/photo/Y2PZ47OU6Z) , (C) StockSnap.io Photographer: Toa Heftiba, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
-* [Screenshot Small Image1](https://stocksnap.io/photo/45A4JOV6KK) , (C) StockSnap.io Photographer: Alex Blajan, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Screenshot Small Image1](https://stocksnap.io/photo/45A4JOV6KK) , (C) StockSnap.io Photographer: Alex Blăjan, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 * [Screenshot Small Image2](https://stocksnap.io/photo/L6NEASJCF7) , (C) StockSnap.io Photographer: The Lazy Artist Gallery, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 * [Screenshot Small Image3](https://stocksnap.io/photo/IBTRJYDWWZ) , (C) StockSnap.io Photographer: Toni Cuenca, [CC0 License](https://creativecommons.org/publicdomain/zero/1.0/)
 
-
 Algori Shop WooCommerce WordPress Theme, Copyright 2019 Kevin Bazira<br/>
-Algori Shop is distributed under the terms of the GNU GPL<br/><br/>
-
-_If you like this project, please 🌟 star it here_ [![GitHub stars](https://img.shields.io/github/stars/kevinbazira/algori-shop.svg?label=Stars&style=social)](https://github.com/kevinbazira/algori-shop)
-<br/>
-_Follow me 👋 on Twitter for more projects like this_ [![Tweet to say Hi](https://img.shields.io/twitter/follow/kevinbazira.svg?style=social&label=Tweet%20@kevinbazira)](https://twitter.com/kevinbazira/)
-
+Algori Shop is distributed under the terms of the GNU GPL
